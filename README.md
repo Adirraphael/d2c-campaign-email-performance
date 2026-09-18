@@ -16,6 +16,3 @@ streamlit run d2c_email_campaign_report.py
 
 Needs `d2c-campaigns.csv` in the same folder (the campaign performance export). That file isn't in this repo since it's actual customer data.
 
-## Heads up
-
-This report is set up for a Jan–Sep comparison too, since 2026 isn't a full year yet — check the checkbox at the top of the Email Performance tab if you want that fairer comparison instead of full-year numbers.
